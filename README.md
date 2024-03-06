@@ -1,4 +1,4 @@
-# Data Scientist
+# Magí Bas
 
 ### Education
 Physics, phD
